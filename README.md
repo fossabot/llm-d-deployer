@@ -1,5 +1,6 @@
-
 # ⚠️ Deprecation Notice: `llm-d-deployer`
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fllm-d%2Fllm-d-deployer.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fllm-d%2Fllm-d-deployer?ref=badge_shield)
+
 
 **This repository is no longer actively maintained.**
 
@@ -34,3 +35,7 @@ If you're currently using the `llm-d-deployer` Helm charts and need help migrati
 ---
 
 Thanks for supporting the `llm-d` project!
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fllm-d%2Fllm-d-deployer.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fllm-d%2Fllm-d-deployer?ref=badge_large)
